@@ -1,5 +1,6 @@
 import json
 import sys
+#PyQt must be installed.
 
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
