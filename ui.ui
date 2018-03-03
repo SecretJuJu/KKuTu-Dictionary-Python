@@ -62,7 +62,7 @@
      <bool>true</bool>
     </property>
    </widget>
-   <widget class="QCheckBox" name="CheckBoxInjung">
+   <widget class="QCheckBox" name="CheckBoxCulture">
     <property name="enabled">
      <bool>true</bool>
     </property>
