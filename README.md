@@ -1,6 +1,6 @@
 # KKuTu Dictionary with Python3
 
-PyQt를 공부하기위해 제작하기 시작한 끄투 사전입니다.
+PyQt를 공부하기위해 제작하기 시작한 끄투 사전입니다. 만약 자신이 Python이나 의존성 또는 프로그래밍 언어에 대한 지식이 없다면 [이곳](https://github.com/kpjhg0124/KKuTu-Dictionary-Python/releases/tag/1.0.0)에서 응용 프로그램으로 패키징된 끄투 사전을 다운받으실 수 있습니다.
 
 ## 기능
 
