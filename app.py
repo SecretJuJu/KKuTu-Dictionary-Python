@@ -27,8 +27,7 @@ class MainformClass(QMainWindow, formClass):
 
     def wordSearch(self):
         searchTarget = self.wordInput.text()
-        print(searchTarget)
-        print(len(searchTarget))
+        self.listWidget.clear()
         if not searchTarget == '':
             for i in range(len(longdata)):
                 if searchTarget[0] == longdata[i][0]:
