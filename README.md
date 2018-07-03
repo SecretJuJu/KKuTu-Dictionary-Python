@@ -43,12 +43,14 @@ pip3 install PyQt5
 
 Windows
 ```
+cd <path>
 app.py
 ```
 
 또는
 
 ```
+cd <path>
 python app.py
 ```
 
